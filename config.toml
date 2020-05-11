@@ -1,0 +1,4 @@
+baseURL = "https://nomadiccodemonkey.com/"
+languageCode = "en-us"
+title = "My Blog Site"
+theme = "ananke"
